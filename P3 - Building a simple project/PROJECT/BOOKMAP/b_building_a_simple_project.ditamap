@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Building A Simple Project</mainbooktitle>
+    </booktitle>
+
+    <chapter href="MAP/m_building_a_simple_project.ditamap" format="ditamap"/>
+</bookmap>

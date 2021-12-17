@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_building_a_simple_project" xml:lang="en">
+    <title>Building a simple project</title>
+    
+    <topicref href="TOPIC/t_building_a_simple_project.dita" format="dita" type="topic"/>    
+</map>
