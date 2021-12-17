@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_outline_map" xml:lang="en">
+    <title>Outline MAP</title>
+    
+    <topicref href="TOPIC/t_outline_topic.dita" format="dita" type="topic"/>    
+</map>
