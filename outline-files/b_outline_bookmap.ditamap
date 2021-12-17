@@ -2,7 +2,7 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap>
     <booktitle>
-        <mainbooktitle>Outline Bookmap</mainbooktitle>
+        <mainbooktitle>Outline BOOKMAP</mainbooktitle>
     </booktitle>
 
     <chapter href="MAP/m_outline_map.ditamap" format="ditamap"/>
