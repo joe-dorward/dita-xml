@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_outline_task_with_context_element" xml:lang="en">
+    <title>Outline Task with &lt;context&gt; element</title>
+
+    <taskbody>
+        <context>This is the &lt;prereq&gt; text.</context>
+        <steps>
+            <step>
+                <cmd>This is the &lt;cmd&gt; text.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
