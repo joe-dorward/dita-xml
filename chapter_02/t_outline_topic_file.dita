@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="t_outline_topic_file" xml:lang="en">
+    <title>Outline TOPIC File</title>
+    <body>
+        <p>The <keyword>TOPIC</keyword> topic-type is the top-level topic-type and the
+                <keyword>CONCEPT</keyword>, <keyword>REFERENCE</keyword>, <keyword>TASK</keyword>
+            topic-types are specialisations of it.</p>
+        <p>Use the <keyword>TOPIC</keyword> topic-type when you are unsure which specialisations to
+            use.</p>
+
+        <table outputclass="code" frame="none" rowsep="0" colsep="0">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <tbody>
+                    <row>
+                        <entry outputclass="numbers">1</entry>
+                        <entry>&lt;?<keyword>xml</keyword>
+                            <keyword>version</keyword>="<keyword outputclass="string">1.0</keyword>"
+                                <keyword>encoding</keyword>="<keyword outputclass="string"
+                                >UTF-8</keyword>"?&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">2</entry>
+                        <entry>&lt;!<keyword>DOCTYPE</keyword>
+                            <keyword outputclass="highlighted">topic</keyword>
+                            <keyword>PUBLIC</keyword> "<keyword outputclass="string">-//OASIS//DTD
+                                DITA</keyword>
+                            <keyword outputclass="highlighted"
+                                >Topic</keyword><keyword>//EN</keyword>" "<keyword
+                                outputclass="string highlighted">topic.dtd</keyword>"&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">3</entry>
+                        <entry>&lt;<keyword>topic</keyword>
+                            <keyword>id</keyword>="<keyword outputclass="string"
+                                >t_outline_topic</keyword>" <keyword>xml:lang</keyword>="<keyword
+                                outputclass="string">en</keyword>"&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">4</entry>
+                        <entry outputclass="second">&lt;<keyword>title</keyword>&gt;Outline
+                                Topic&lt;/<keyword>title</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">5</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers highlighted">6</entry>
+                        <entry outputclass="second highlighted"
+                            >&lt;<keyword>body</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">7</entry>
+                        <entry outputclass="third">&lt;p&gt;A TOPIC topic-type.&lt;/p&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">8</entry>
+                        <entry outputclass="second">&lt;<keyword>/body</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">9</entry>
+                        <entry>&lt;<keyword>/topic</keyword>&gt; </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table outputclass="explainer">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <tbody>
+                    <row>
+                        <entry><b>Line 2</b>:</entry>
+                        <entry>Shows the three places in the <keyword>DOCTYPE</keyword> definition
+                            where 'topic' appears.</entry>
+                    </row>
+                    <row>
+                        <entry><b>Line 6</b>:</entry>
+                        <entry>Shows the opening <keyword>body</keyword> content 'wrapping'
+                            element.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>
