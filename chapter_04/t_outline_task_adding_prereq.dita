@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_outline_task_adding_prereq" xml:lang="en">
+  <title>Outline Task Adding &lt;prereq&gt;</title>
+  
+  <taskbody>
+    <prereq>This is the <prereq> text.</prereq>
+    <steps>
+      <step>
+        <cmd>This is the <cmd> text.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
