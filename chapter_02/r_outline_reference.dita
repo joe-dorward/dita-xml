@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_outline_reference">
+    <title>Outline Reference</title>
+    <refbody>
+        <section>
+            <title>This is the &lt;section&gt; title text.</title>
+            <fig>
+                <image><alt></alt></image>
+                
+                
+            </fig>
+        </section>
+    </refbody>
+</reference>
