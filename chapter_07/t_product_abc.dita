@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_product_abc" xml:lang="en">
+  <title>Product ABC</title>
+  <taskbody>
+    <context>
+      <div conref="../COMPONENTS/CONTENT/t_product_disclaimers.dita#t_product_disclaimers/product_abc_disclaimer"/>
+    </context>
+    
+    <steps>
+      <step>
+        <cmd>Plug Product ABC into mains power.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
