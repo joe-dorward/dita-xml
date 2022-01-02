@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_outline_task" xml:lang="en">
-    <title>Outline Task</title>
-    <prolog>
-        <metadata>
-            <category/>
-        </metadata>
-    </prolog>
+    <title>Outline Task</title>    
+
+    <taskbody>
+        
+        <steps>
+            
+            <step>
+                <cmd>A TASK topic-type.</cmd>
+            </step>
+            
+        </steps>
+        
+    </taskbody>
 </task>
