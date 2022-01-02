@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_outline_task_adding_image_to_stepresult" xml:lang="en">
+  <title>Outline Task Adding &lt;image&gt; To &lt;stepresult&gt;</title>
+  
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>This is the <cmd> text.</cmd>
+          
+        <stepresult>
+          <image href="example_image.png" alt="Example Image"/>
+        </stepresult>
+      </step>
+    </steps>
+  </taskbody>
+</task>
