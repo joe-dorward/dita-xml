@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="t_outline_topic_adding_fig_to_body" xml:lang="en">
+  <title>Outline Topic Adding &lt;fig&gt; To &lt;body&gt;</title>
+
+  <body>
+
+    <fig>
+      <title>DITA Reusable Components Panel (title)</title>
+      <image href="../../COMPONENTS/ILLUSTRATIONS/dita_reusable_components_none.png">
+        <alt>DITA Reusable Components Panel (alt)</alt>
+      </image>
+    </fig>
+    
+  </body>
+</topic>
