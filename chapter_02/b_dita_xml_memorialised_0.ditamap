@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap id="b_dita_xml_memorialised" xml:lang="en">
+    <booktitle>
+        <mainbooktitle>DITA XML (memorialised)</mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <author>Joe Dorward</author>
+    </bookmeta>
+    <frontmatter>
+        <notices>
+            <topicref toc="yes" href="t_this_book.dita" format="dita" type="topic"/>
+        </notices>
+    </frontmatter>
+
+    <!-- CHAPTER 01 - THE PROMISE OF DITA XML -->
+    <chapter href="CHAPTER_01/m_the_promise_of_dita_xml.ditamap" format="ditamap"/>
+
+    <!-- CHAPTER 02 - OUTLINE FILES -->
+    <chapter href="CHAPTER_02/m_outline_files.ditamap" format="ditamap"/>
+
+    <!-- CHAPTER 03 - BUILDING A SIMPLE PROJECT -->
+    <chapter href="CHAPTER_03/m_building_projects.ditamap" format="ditamap"/>
+
+    <!-- CHAPTER 04 - ADDING STRUCTURAL ELEMENTS -->
+    <chapter href="CHAPTER_04/m_adding_structural_elements.ditamap" format="ditamap"/>
+
+    <!-- CHAPTER 05 - ADDING SEMANTIC ELEMENTS -->
+    <chapter href="CHAPTER_05/m_adding_semantic_elements.ditamap" format="ditamap"/>
+
+    <!-- CHAPTER 07 - REUSABLE CONTENT COMPONENTS -->
+    <chapter href="CHAPTER_07/m_reuseable_content_components.ditamap" format="ditamap"/>
+</bookmap>
