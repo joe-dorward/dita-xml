@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap id="b_dita_xml_memorialised" xml:lang="en">
+    <booktitle>
+        <mainbooktitle>DITA XML (memorialised)</mainbooktitle>
+    </booktitle>
+
+    <chapter href="CHAPTER_01/m_the_promise_of_dita_xml.ditamap" format="ditamap"/>
+
+</bookmap>
