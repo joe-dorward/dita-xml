@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="m_the_promise_of_dita_xml" xml:lang="en">
-    <title>The Promise of DITA XML (MAP file)</title>    
-    <topicref href="t_the_promise_of_dita_xml.dita" format="dita" type="topic">
-        <topicref href="TOPIC/t_why_not_word_like_applications.dita" format="dita" type="topic"/>
-        <topicref href="TOPIC/t_why_dita_xml.dita" format="dita" type="topic"/>
-    </topicref>
+    <title>The Promise of DITA XML</title> 
+    
+    <topicref href="TOPIC/t_the_promise_of_dita_xml.dita" format="dita" type="topic"/>
 </map>
