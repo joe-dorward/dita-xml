@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="t_task_adding_note_before_cmd" xml:lang="en">
+    <title>TASK - Adding &lt;note&gt; Before &lt;cmd&gt;</title>
+    <body>
+        <p>A <keyword>note</keyword> element can be added to a <keyword>step</keyword> element before a
+            <keyword>cmd</keyword> element.</p>
+
+        <table outputclass="code" frame="none" rowsep="0" colsep="0">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <tbody>
+                    <row>
+                        <entry outputclass="numbers">1</entry>
+                        <entry>&lt;?<keyword>xml</keyword>
+                            <keyword>version</keyword>="<keyword outputclass="string">1.0</keyword>"
+                                <keyword>encoding</keyword>="<keyword outputclass="string">UTF-8</keyword>"?&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">2</entry>
+                        <entry>&lt;!<keyword>DOCTYPE</keyword>
+                            <keyword>task</keyword>
+                            <keyword>PUBLIC</keyword> "<keyword outputclass="string">-//OASIS//DTD DITA Task//EN</keyword>"
+                                "<keyword outputclass="string">task.dtd</keyword>"&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">3</entry>
+                        <entry>&lt;<keyword>task</keyword>
+                            <keyword>id</keyword>="<keyword outputclass="string"
+                                >t_outline_task_adding_note_before_cmd</keyword>" <keyword>xml:lang</keyword>="<keyword
+                                outputclass="string">en</keyword>"&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">4</entry>
+                        <entry outputclass="second">&lt;<keyword>title</keyword>&gt;Outline Task Adding &amp;lt;note&amp;gt; Before
+                            &amp;lt;cmd&amp;gt;&lt;/<keyword>title</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">5</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">6</entry>
+                        <entry outputclass="second">&lt;<keyword>taskbody</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">7</entry>
+                        <entry outputclass="third">&lt;<keyword>steps</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">8</entry>
+                        <entry outputclass="fourth">&lt;<keyword>step</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers highlighted">9</entry>
+                        <entry outputclass="fifth highlighted"> &lt;<keyword>note</keyword>&gt;This is a &lt;note&gt; before
+                            a &lt;cmd&gt;.&lt;<keyword>/note</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">10</entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">11</entry>
+                        <entry outputclass="fifth">&lt;<keyword>cmd</keyword>&gt;This is the &lt;cmd&gt;
+                                text.&lt;/<keyword>cmd</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">12</entry>
+                        <entry outputclass="fourth">&lt;/<keyword>step</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">13</entry>
+                        <entry outputclass="third">&lt;/<keyword>steps</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">14</entry>
+                        <entry outputclass="second">&lt;<keyword>/taskbody</keyword>&gt;</entry>
+                    </row>
+                    <row>
+                        <entry outputclass="numbers">15</entry>
+                        <entry>&lt;<keyword>/task</keyword>&gt;</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table outputclass="explainer">
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <tbody>
+                    <row>
+                        <entry><b>Line 9</b>:</entry>
+                        <entry>Shows the <keyword>note</keyword> element added after the <keyword>step</keyword> element, but
+                            before the <keyword>cmd</keyword> element.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </body>
+</topic>
