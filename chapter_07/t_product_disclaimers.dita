@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="t_product_disclaimers" xml:lang="en">
+  <title>Product Disclaimers</title>
+  <body>
+      
+    <div id=" abc_product_disclaimer ">
+      <p>Before Presenting <b>ABC Product</b></p>
+      <p>We strongly recommend that you perform the tasks in this document
+      with an active session before presenting in front of a live audience.
+      This will allow you to become familiar with the structure of the document
+      and content.</p>
+      <p>It may be necessary to schedule a new session after following this
+      guide in order to reset the environment to its original configuration.</p>
+    </div>
+
+    <div id=" xyz_product_disclaimer ">
+      <p>Before Presenting <b>XYZ Product</b></p>
+      <p>We strongly recommend that you perform the tasks in this document
+      with an active session before presenting in front of a live audience.
+      This will allow you to become familiar with the structure of the document
+      and content.</p>
+      <p>It may be necessary to schedule a new session after following this
+      guide in order to reset the environment to its original configuration.</p>
+    </div>
+
+  </body>
+</topic>
