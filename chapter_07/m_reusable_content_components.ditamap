@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="m_reusable_content_components" xml:lang="en">
+  <title>Reusable Content Components (MAP file)</title>
+
+  <topicref href="TASK/t_abc_product.dita" format="dita" type="task">
+  <topicref href="TASK/t_xyz_product.dita" format="dita" type="task">
+</map>
