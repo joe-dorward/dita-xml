@@ -5,6 +5,7 @@
   
   <taskbody>
     <steps>
+      
       <step>
         <cmd>This is the <cmd> text.</cmd>
           
@@ -12,6 +13,7 @@
           <image href="example_image.png" alt="Example Image"/>
         </stepresult>
       </step>
+        
     </steps>
   </taskbody>
 </task>
